@@ -2322,7 +2322,7 @@ position: relative;
         gap: 24px; */
         display: flex;
         flex-direction: row;
-        gap: 16px;
+        gap: 24px;
         /* !!!!!only for mobile version!!!!! */
         /* align-items: center; */
     }
