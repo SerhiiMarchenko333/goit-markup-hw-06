@@ -921,7 +921,12 @@ border: 1px solid rgba(46, 47, 66, 0.4);
     line-height: 1.17;
     letter-spacing: 0.04em;
     color: #8e8f99;
+    display: flex;
     align-items: center;
+}
+
+.priavcy-policy {
+    display: block;
 }
 
 .modal-check-text-span {
@@ -946,7 +951,6 @@ border: 1px solid rgba(46, 47, 66, 0.4);
 .modal-check-link {
     color: #4d5ae5;
     text-decoration: underline;
-    margin-left: 4px;
 }
 
 .modal-btn {
