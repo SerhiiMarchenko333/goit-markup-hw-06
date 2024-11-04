@@ -611,6 +611,7 @@ border-top: none;
 .footer-container-web {
     width: 288px;
     text-align: center;
+    margin-bottom: 72px;
 }
 
 .footer-logo {
@@ -644,7 +645,6 @@ font-family: "Raleway", sans-serif;
     color: #f4f4fd;
     max-width: 264px;
     text-align: left;
-    margin-bottom: 72px;
     padding-left: -12px;
 }
 
@@ -1447,7 +1447,6 @@ position: relative;
         color: #f4f4fd;
         max-width: 264px;
         text-align: left;
-        margin-bottom: 72px;
         padding-left: -12px;
     }
 
@@ -2224,6 +2223,7 @@ position: relative;
     .footer-container-web {
         width: 264px;
         text-align: left;
+        margin-bottom: 0;
     }
 
     .footer-logo {
@@ -2257,7 +2257,6 @@ position: relative;
         color: #f4f4fd;
         max-width: 264px;
         text-align: left;
-        margin-bottom: 72px;
         padding-left: -12px;
     }
 
